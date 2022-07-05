@@ -1,0 +1,122 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Racing Sans One', cursive;
+    margin: 0;
+}
+
+.first-area {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.divided-width {
+    width: 50%;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.divided-width img {
+    width: 80%;
+    border-radius: 200px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.text-color {
+    color: olivedrab;
+}
+
+.btn-modify {
+    background-image: linear-gradient(to right, #DA22FF 0%, #9733EE 51%, #DA22FF 100%);
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+#heading-color {
+    color: #F9D342;
+}
+
+#another-heading {
+    color: #3A6B35;
+}
+
+#same-heading {
+    color: palevioletred;
+}
+
+
+
+.Third-area {
+    margin-top: 100px;
+}
+
+.products-details {
+    text-align: center;
+}
+
+.products-heading {
+    font-size: 40px;
+}
+
+.heading-move {
+    padding-left: 7%;
+}
+
+.divided {
+    width: 20%;
+}
+
+.edited img {
+    width: 100%;
+    border-radius: 10px;
+    height: 50%;
+}
+
+.new-area {
+    display: flex;
+    padding-left: 7%;
+    padding-right: 7%
+}
+
+.edited {
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 15px;
+}
+
+.edited p {
+    text-align: center;
+}
+
+.last-portion {
+    margin-top: 100px;
+    display: flex;
+    padding-left: 7%;
+    padding-right: 7%;
+    box-shadow: 10px 10px 50px gray;
+    margin-left: 7%;
+    margin-right: 7%;
+    border-radius: 10px;
+    margin-bottom: 100px;
+
+}
+
+.distance {
+    width: 30%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 100px;
+    text-align: center;
+    background-color: navy;
+    padding-bottom: 100px;
+
+}
